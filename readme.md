@@ -32,5 +32,7 @@ Chainlink 全球黑客松 Block Magic 已开放报名 ，总奖池 $ 50 万。
 4. NFT 数据服务商 NFTScan $500 奖金
 5. RPC 服务商 BlockPi 价值 $495 RU包
 
+（备注： Morph、EthStorage、NFTScan 为侧赛道，由各自项目评奖）
+
 所有提交做作品的同学都将颁发参赛者证书。线下参与的同学还有 ChainLink 及 Morph 提供的额外周边福利。
 
