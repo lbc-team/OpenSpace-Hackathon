@@ -14,7 +14,7 @@ Chainlink 全球黑客松 Block Magic 已开放报名 ，总奖池 $ 50 万。
    * 完善项目描述， 并提交， 获取项目的 “preview”  链接
 4. 在**5月26日 20:00** 前，在本库提交 PR 参加预赛评选
    * 在 [issue](https://github.com/lbc-team/chainlink-hackathon-pre/issues) 中以项目名提交一个 Issue，获取一个项目编号
-   * 在 [projects](./projects/) 文件夹中，以 Issue 编号及项目名常见一个文件夹
+   * 在 [projects](./projects/) 文件夹中，以 Issue 编号及项目名称建一个文件夹（格式：`项目编号_项目名称`，例子：`1_UpchainProject`）
    * 在自己的项目名文件夹下，添加项目介绍 Readme.md （填写格式参考[这里](./projects/1_UpchainProject/Readme.md)） 及相关介绍资料
 
 
