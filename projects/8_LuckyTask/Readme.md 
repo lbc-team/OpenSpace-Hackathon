@@ -1,0 +1,45 @@
+# 作品名称: LuckyTask
+
+## 作品简介
+LuckyTask是一套完全去中心化的链上抽奖协议，一个抽奖竞猜平台，同时也是带有CashBack属性的流量分发平台。
+
+对项目方而言，LuckyTask将抽奖与任务的机制结合在一起，给第三方业务提供一整套可快速接入的抽奖工具，同时业务方可灵活的自定义多类任务给用户，完成任务即可获得免费的抽奖机会。
+对用户而言，可在LuckyTask平台获取到各类Web3项目的抽奖营销活动。同时参与感兴趣的平台及业务方的场景任务，获取免费的抽奖额度。
+
+Luckytask平台致力于打造一个聚焦Web3的抽奖聚合平台。同时积极连接Web3各类垂直业务头部场景方，打造一系列带有CashBack性质的【质押即返抽奖】/【交易即返抽奖】/【支付即返抽奖】/【跨链即返抽奖】等的Web3流量矩阵入口。
+
+
+
+## 作品代码仓库
+合约：https://github.com/teexiaomo/ReEnvelope
+
+## 黑客松资料
+
+### 项目介绍：
+[LuckyTask.pdf](./LuckyTask.pdf)
+
+### 项目site：
+http://43.156.224.151/home
+
+### 作品链接：https://devpost.com/software/luckytask  （暂未上传详细资料）
+
+
+## 成员
+teemo
+- 合约开发
+- 邮箱：teexiaomo.eth@gmail.com 
+- Github：https://github.com/teexiaomo
+
+
+leozm
+- 后台开发
+- 邮箱：luckyfreelzc@gmail.com
+
+Ants
+- 前端开发
+- 邮箱：kinronzhang@gmail.com
+
+
+
+## ERC20 地址(用于团队接收奖励)
+0x874Ba02eC75e3A6FfDDE59FB79E993D4e42053Ac
