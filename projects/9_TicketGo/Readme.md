@@ -11,9 +11,14 @@ https://github.com/CarryWang/TicketGo
 **黑客松资料**
 
 作品链接：
-合约：https://github.com/CarryWang/TicketGo
-前端：https://github.com/CarryWang/ticket_go_web
+
+合约：https://github.com/CarryWang/TicketGo 
+
+前端：https://github.com/CarryWang/ticket_go_web 
+
 在线地址：https://ticket-go-web.vercel.app/
+
+
 **成员**
 
 **Rayer**
