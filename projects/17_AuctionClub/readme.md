@@ -63,3 +63,27 @@ AuctionHouse是一个基于智能合约的拍卖平台，为交易者提供公�
    - 发展拍卖之外的 NFT 生态系统，如 NFT 质押、借贷等功能，提升平台的整体价值。
 
 AuctionHouse致力于为用户提供优质的拍卖体验，希望通过创新的拍卖模式和智能化的拍卖流程，成为拍卖行业的领导者。
+
+### 项目成员
+Beavn
+- 合约开发
+- https://github.com/Beavnvvv
+- beavn.eth
+
+Bach
+- 合约开发
+- https://github.com/Bachamht
+- 0x8FD116DaF3A17Fc2e8D10579EDB19c788Bb93A64
+
+feng
+- 前端开发
+- https://github.com/Young-Jeff
+- 
+
+Gony
+- 前端开发
+- https://github.com/GonyJean
+- 0x2011862879eE9F98F593C79e5c14bB5325306d75
+
+团结领奖地址
+0x408ea061DEF5E8E57Bd2569C9ca7d4Ce400860e0
