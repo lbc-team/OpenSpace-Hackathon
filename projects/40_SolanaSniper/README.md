@@ -13,12 +13,12 @@ SolanaSniperProject GitHub Repository
 成员
 PingZi
 后端开发
-邮箱：sxpp316@163.com
+GitHub：https://github.com/cpkt9762
 
 nicki
 前端开发
-邮箱：nicki_x0@163.com
-GitHub
+GitHub：https://github.com/sy-sophie
+
 
 ERC20 地址（用于团队接收奖励）
 0xb9e2a6DC030ef79294B87f7302597F92e6d4C958
