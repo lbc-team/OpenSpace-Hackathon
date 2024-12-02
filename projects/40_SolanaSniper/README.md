@@ -8,7 +8,7 @@ SolanaSniperProject GitHub Repository
 黑客松资料
 作品链接：[Demo 链接](http://149.51.149.196:880/)
 
-其他资料: [自动狙击Solana Token交易Bot介绍.pptx](https://github.com/OpenSpace-Hackathon/projects/blob/main/projects/solana-sniper-bot/自动狙击Solana Token交易Bot介绍.pptx)
+其他资料: [自动狙击Solana Token交易Bot介绍.pptx](https://github.com/OpenSpace-Hackathon/projects/blob/main/projects/solana-sniper-bot/自动狙击_Solana_Token_Bot.pptx)
 
 成员
 PingZi
