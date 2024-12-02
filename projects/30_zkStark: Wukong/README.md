@@ -1,4 +1,47 @@
+# Project Name: zkStark: Wukong
+
+## Description
+
+zkStark: Wukong is a strategy auto battle game based on zkstark and the story of <black myth: wukong>. Player can distribute point among strength, agility, intelligence to create strategy. Then use strategy to battle with others' strategy, to get higher rank and get the fragment of The Great Sage's will.
+
+## Code repo
+
+https://github.com/noyyyy/zkstark-wukong
+
+## Detail
+
+- [deck](./zkStark-WuKong.pdf)
+
+### core feature
+
+- Create Strategy: Player distribute point to create strategy
+- Auto battle: Player select strategy to start an auto battle
+- challenge based on zk: the battle progress is calculated off chain and submit by player. If there is any cheats, anyone can generate zkproof to challenge on chain. Here We use [stone-prover](https://github.com/starkware-libs/stone-prover) to generate prove and [integrity](https://github.com/HerodotusDev/integrity) to verify on chain.
+
+
+## Member 
+Noy
+
+- frontend development, zkp development
+- email：github.m5oih@simplelogin.com
+- Github：https://github.com/noyyyy/
+
+RuoYan
+
+- Cocos Game development
+- email: cmu.liugelei@gmail.com
+- Github: https://github.com/cmu-ruoyan-lgl
+
+
+Geoff
+
+- smart contract development
+- email: supergreatgeoff@gmail.com
+- Github: https://github.com/CodingGeoff
+
+
 # 作品名称: zkStark: Wukong
+
 
 ## 作品简介
 
