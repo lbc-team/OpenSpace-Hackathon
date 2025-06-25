@@ -1,0 +1,85 @@
+# Rust构建产物
+/target/
+Cargo.lock
+
+# 调试信息
+debug/
+*.pdb
+
+# IDE和编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 运行时数据和数据库
+/data/
+/demo_data/
+/demo_offline_data/
+*.db
+*.sqlite
+*.sqlite3
+
+# 日志文件
+*.log
+logs/
+
+# 环境配置
+.env
+.env.local
+.env.production
+
+# 前端构建产物
+/frontend/dist/
+/frontend/build/
+/frontend/node_modules/
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Solana相关
+# 钱包文件 (重要: 不要提交私钥)
+*.json
+!package.json
+!package-lock.json
+!Cargo.lock
+!tsconfig.json
+wallet.json
+keypair.json
+id.json
+
+# 程序二进制文件和构建产物
+*.so
+*.dylib
+*.dll
+
+# 临时文件
+tmp/
+temp/
+.cache/
+
+# 测试相关
+/tests/tmp/
+/tests/fixtures/generated/
+
+# 备份文件
+*.bak
+*.backup
+*.orig
+
+# 性能分析文件
+*.prof
+perf.data*
+
+# 文档生成
+/docs/build/ 

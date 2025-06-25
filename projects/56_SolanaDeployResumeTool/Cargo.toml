@@ -1,0 +1,108 @@
+[package]
+name = "solana-deploy-resume-tool"
+version = "0.1.0"
+edition = "2021"
+authors = ["Solana Deploy Resume Tool Team"]
+description = "智能的Solana程序部署续传工具，解决部署失败时的费用损失问题"
+license = "MIT"
+repository = "https://github.com/your-org/solana-deploy-resume-tool"
+keywords = ["solana", "deployment", "resume", "blockchain", "crypto"]
+categories = ["command-line-utilities", "development-tools"]
+
+[lib]
+name = "solana_deploy_resume_tool"
+path = "src/lib.rs"
+
+[[bin]]
+name = "sol-deploy-resume"
+path = "src/main.rs"
+
+[dependencies]
+# CLI框架
+clap = "2.34"
+console = "0.15"
+indicatif = "0.17"
+
+# Solana核心依赖
+solana-client = "1.17"
+solana-sdk = "1.17"
+solana-program = "1.17"
+solana-cli-config = "1.17"
+
+# Web服务器和API
+warp = "0.3"
+tokio = { version = "1.0", features = ["full"] }
+tokio-tungstenite = "0.20"
+futures = "0.3"
+futures-util = "0.3"
+uuid = { version = "1.0", features = ["v4", "serde"] }
+
+# 序列化和数据处理
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8"
+bytes = "1.0"
+once_cell = "1.0"
+
+# 数据存储
+sled = "0.34"
+
+# 日志和监控
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-appender = "0.2"
+
+# 错误处理和工具
+anyhow = "1.0"
+thiserror = "1.0"
+sha2 = "0.10"
+hex = "0.4"
+rand = "0.8"
+
+# 时间处理
+chrono = { version = "0.4", features = ["serde"] }
+
+# 网络和HTTP
+reqwest = { version = "0.11", features = ["json"] }
+url = "2.4"
+
+# 配置管理
+config = "0.13"
+dirs = "5.0"
+
+[dev-dependencies]
+tokio-test = "0.4"
+tempfile = "3.0"
+pretty_assertions = "1.0"
+
+[features]
+default = ["mainnet"]
+mainnet = []
+devnet = []
+testnet = []
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = "symbols"
+
+[profile.dev]
+debug = true
+opt-level = 0
+
+# 用于减少编译时间的优化
+[profile.dev.package."*"]
+opt-level = 1
+
+[package.metadata.docs.rs]
+all-features = true
+rustdoc-args = ["--cfg", "docsrs"]
+
+[[example]]
+name = "demo"
+path = "examples/demo.rs"
+
+[[example]]
+name = "demo_offline"
+path = "examples/demo_offline.rs" 
