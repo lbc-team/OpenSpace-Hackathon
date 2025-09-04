@@ -1,21 +1,21 @@
 # 登链集训营黑客松
 
-6月20日- 6月26日，登链集训营开启新一轮黑客松。
+9月1日- 9月5日，登链集训营开启新一轮黑客松。
 
 ## 参赛流程
 
 1. 组队开发项目 
-2. 提交项目： 在**06月26日 12:00** 前， 在 [issue](https://github.com/lbc-team/OpenSpace-Hackathon/issues) 中以项目名提交一个 Issue，获取一个项目编号
+2. 提交项目： 在**09月05日 12:00** 前， 在 [issue](https://github.com/lbc-team/OpenSpace-Hackathon/issues) 中以项目名提交一个 Issue，获取一个项目编号
 3. 在本库提交 PR 参加黑客松评选
    * 在 [projects](./projects/) 文件夹中，以 Issue 编号及项目名称建一个文件夹（格式：`项目编号_项目名称`，例子：`1_UpchainProject`）
    * 在自己的项目名文件夹下，添加项目介绍 Readme.md （填写格式参考[这里](https://github.com/lbc-team/OpenSpace-Hackathon/tree/main/projects/1_UpchainProject)） 及相关介绍资料
   
 
 
-参加评选的的作品将以 PR 提交，请务必在 **06月06日 12:00** 前提交 PR ， 我们将根据 PR 序号安排演示。没有提交 PR 不参与演示与评选。
+参加评选的的作品将以 PR 提交，请务必在 **09月05日 12:00** 前提交 PR ， 我们将根据 PR 序号安排演示。没有提交 PR 不参与演示与评选。
 每支队伍有 10 分钟 Demo 演示时间，演示后会有 5 分钟时间用于评委们（学员们）提问及点评。(即每支队伍总计 15 分钟时间)
 
-演示大概在 06月26日 **3:30** 分开始
+演示大概在 09月05日 **3:30** 分开始
 
 
 
