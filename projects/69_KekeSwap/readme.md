@@ -1,21 +1,7 @@
-# KekeSwap - 下一代Meme文化驱动的DeFi生态平台
+# 作品名称: KekeSwap
 
-## 🎯 项目摘要
-
-KekeSwap 是一个面向 Meme 文化和去中心化金融的下一代社区驱动平台。通过 **KekeSwap DEX**、**KekeSwap Farm**、**KekeSwap Fun发射平台** 和平台代币 **KEKE**，我们旨在构建一个集娱乐、创新和长期价值于一体的Meme生态系统。
-
-KekeSwap 不仅降低了发币门槛，更通过平台代币 KEKE 的赋能，让整个生态形成可持续发展的闭环。
-
-## 📊 市场背景与机会
-
-### 市场现状
-- **Meme币的爆发式增长**：DOGE、SHIB、BONK等成功案例证明了社区文化驱动的巨大价值
-- **现有平台的局限性**：
-  - Pump.fun等平台缺乏长期代币激励机制，平台价值难以沉淀
-  - PancakeSwap IFO等传统Launchpad门槛过高，更偏向正规项目而非Meme创作者
-
-### 市场机会
-🚀 **打造一个既能让任何人一键发币，又能通过平台代币形成长期生态价值的Meme发射中心**
+## 作品简介
+KekeSwap 是一个面向 Meme 文化和去中心化金融的下一代社区驱动平台。通过 KekeSwap DEX、KekeSwap Farm、KekeSwap Fun发射平台和平台代币 KEKE，我们旨在构建一个集娱乐、创新和长期价值于一体的Meme生态系统。KekeSwap 不仅降低了发币门槛，更通过平台代币 KEKE 的赋能，让整个生态形成可持续发展的闭环，打造一个既能让任何人一键发币，又能通过平台代币形成长期生态价值的Meme发射中心。
 
 ## 🏗️ 项目架构
 
@@ -54,3 +40,37 @@ KekeSwap 生态包括三大核心模块：
 - 平台交易手续费回购销毁
 - 发射平台收益分配
 - 生态合作伙伴收益共享
+
+## 作品代码仓库
+`https://github.com/HL911/keke_web`
+
+
+
+## 成员
+
+**HL911**
+- 角色：web开发 / ETH 合约开发
+- Github：https://github.com/HL911
+
+**Arealtxh**
+- 角色：测试
+- Github：https://github.com/Arealtxh
+
+**zuankeyboard**
+- 角色：ETH 合约开发 / 测试
+- Github：https://github.com/zuankeyboard
+
+**Jinchengawu**
+- 角色：web开发 / ETH 合约开发
+- Github：https://github.com/Jinchengawu
+
+**feng**
+- 角色：web开发 / ETH 合约开发
+- Github：https://github.com/feng001-8
+
+**CaiChensong**
+- 角色：web开发 / ETH 合约开发
+- Github：https://github.com/CaiChensong
+
+## ERC20 地址(用于团队接收奖励)
+`0xc4c21681D59CD8cfeDa2C8DB39f3227AcBd24518`
